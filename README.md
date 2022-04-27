@@ -1,4 +1,4 @@
-# discord_bot
+# misaki mei - discord_bot
 🤖​ Bot gerenciável para o meu servidor. 
 
 👩‍💻 Começo dos meus estudos em python, testarei meu conhecimento desenvolvendo esse bot para o discord. 
@@ -11,6 +11,6 @@
 
 ❗ Funcionalidades futuras:
 
-Ler os palavrões e mandar mensagem avisando ao admin
+Ler os palavrões e mandar mensagem avisando ao admin ⚠️
 
-Ler URL de músicas do youtube
+Ler URL de músicas do youtube ⚠️
